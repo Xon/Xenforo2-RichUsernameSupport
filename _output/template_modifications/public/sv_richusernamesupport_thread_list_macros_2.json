@@ -1,0 +1,9 @@
+{
+    "template": "thread_list_macros",
+    "description": "",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "preg_replace",
+    "find": "#<xf:username (.*) />#im",
+    "replace": "<xf:username $1 rich=\"true\" />"
+}
