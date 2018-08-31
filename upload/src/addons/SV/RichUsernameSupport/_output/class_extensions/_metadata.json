@@ -1,5 +1,8 @@
 {
     "XF-Entity-Thread_SV-RichUsernameSupport-XF-Entity-Thread.json": {
         "hash": "f9db7375272fcfa7ea5c954f81f92577"
+    },
+    "XF-Repository-Thread_SV-RichUsernameSupport-XF-Repository-Thread.json": {
+        "hash": "906d260f9b560fa4f14ab85878f38d67"
     }
 }

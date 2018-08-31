@@ -7,3 +7,8 @@ namespace SV\RichUsernameSupport\XF\Entity
 {
 	class XFCP_Thread extends \XF\Entity\Thread {}
 }
+
+namespace SV\RichUsernameSupport\XF\Repository
+{
+	class XFCP_Thread extends \XF\Repository\Thread {}
+}

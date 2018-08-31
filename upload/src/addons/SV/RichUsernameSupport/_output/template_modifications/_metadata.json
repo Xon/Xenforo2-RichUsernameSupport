@@ -1,11 +1,5 @@
 {
-    "public/sv_richusernamesupport_member_tooltip.json": {
-        "hash": "35dce0231c3c5a19256db9473b5675e6"
-    },
-    "public/sv_richusernamesupport_thread_list_macro.json": {
-        "hash": "7759efb11df66a301959ff3b3935c81e"
-    },
     "public/sv_richusernamesupport_thread_list_macros_2.json": {
-        "hash": "a6b8fe2cce9e49d03168f0121e73fd05"
+        "hash": "b0998a2af70f66ab4085939e6b89edd5"
     }
 }

@@ -1,9 +1,0 @@
-{
-    "template": "member_tooltip",
-    "description": "",
-    "execution_order": 10,
-    "enabled": true,
-    "action": "preg_replace",
-    "find": "#<xf:avatar (.*) />#i",
-    "replace": "<xf:avatar $1 rich=\"true\" />"
-}
